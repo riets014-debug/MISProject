@@ -1,5 +1,0 @@
-- [ ] Examine discover.html to understand current structure
-- [ ] Check other pages to identify the theme/styling to apply
-- [ ] Apply the same theme to discover.html
-- [ ] Add UMD section to discover.html
-- [ ] Verify the changes work correctly
